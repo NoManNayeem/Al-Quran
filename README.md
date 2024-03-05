@@ -6,10 +6,10 @@ Al-Quran is a mobile application built with React Native Expo, designed for read
 
 # ScreenShots
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
-  <img src="./screenshots/image.jpg" alt="Image 1" style="height: 350px; margin-bottom: 15px; padding: 5px;">
-  <img src="./screenshots/image1.jpg" alt="Image 2" style="height: 350px; margin-bottom: 15px; padding: 5px;">
-  <img src="./screenshots/image2.jpg" alt="Image 3" style="height: 350px; margin-bottom: 15px; padding: 5px;">
-  <img src="./screenshots/image3.jpg" alt="Image 4" style="height: 350px; margin-bottom: 15px; padding: 5px;">
+  <img src="./screenshots/image.jpg" alt="Image 1" style="height: 372x; margin-bottom: 15px; padding: 5px;">
+  <img src="./screenshots/image1.jpg" alt="Image 2" style="height: 372x; margin-bottom: 15px; padding: 5px;">
+  <img src="./screenshots/image2.jpg" alt="Image 3" style="height: 372x; margin-bottom: 15px; padding: 5px;">
+  <img src="./screenshots/image3.jpg" alt="Image 4" style="height: 372x; margin-bottom: 15px; padding: 5px;">
 </div>
 
 
